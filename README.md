@@ -11,17 +11,19 @@ The bait-design.sh contains all code, settings and tool versions used to generat
 
 
 ```
-OG593/
-├── assemblies
-│   └── genome
-│       ├── bam
-│       ├── busco
-│       ├── depthsizer
-│       ├── NCBI
-│       └── tiara
-├── fastp
-└── kmers
-    ├── OG593.genomescope
-    └── meryl
+OG10/
+└── OG10.hifi.230209.v3mitohifi
+    ├── MitoReference
+    ├── coverage_mapping
+    └── emma
+        └── cds
+
+
+
+OG400/
+└── OG400.ilmn.230607.v177getorg
+    ├── emma
+    │   └── cds
+    └── mtdna
 
 ```
