@@ -11,21 +11,16 @@ The bait-design.sh contains all code, settings and tool versions used to generat
 
 
 ```
-OG76/
-├── OG76_v230825.hic1
-│   ├── assembly
-│   ├── bam
-│   ├── bedgraph
-│   ├── busco
-│   ├── decontam
-│   ├── gfastats
-│   ├── merqury
-│   │   ├── fCriAus1_qv
-│   │   └── fCriAus1_stats
-│   └── pretext
-├── OG76_v230825.hifi1
-│   └── assembly
-├── genomescope
-└── meryl
+OG593/
+├── assemblies
+│   └── genome
+│       ├── bam
+│       ├── busco
+│       ├── depthsizer
+│       └── tiara
+├── fastp
+└── kmers
+    ├── OG593.genomescope
+    └── meryl
 
 ```
