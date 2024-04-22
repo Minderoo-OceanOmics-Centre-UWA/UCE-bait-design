@@ -17,6 +17,7 @@ OG593/
 │       ├── bam
 │       ├── busco
 │       ├── depthsizer
+|        ├── NCBI
 │       └── tiara
 ├── fastp
 └── kmers
